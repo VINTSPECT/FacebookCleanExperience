@@ -15,7 +15,7 @@ B. Setting Up the FB-Clean-My-Feeds Script
 1. Open the Facebook page in your browser.
 2. Look for the broom icon in the top-right corner of Facebook. Click the icon to open the script page.
 3. Click “Import.” Locate the .json file you downloaded earlier and click “Open.”
-4. Refresh your Facebook page. Sponsored ads should no longer appear on your Facebook homepage.
+4. Don't forget to click "Save". Refresh your Facebook page. Sponsored ads should no longer appear on your Facebook homepage.
 
 
 C. Important notes:
