@@ -25,6 +25,8 @@ C. Important notes:
 
 D. Additional Notes:
 1. If you want to enhance your Facebook experience, you can use the filter settings I use every day. Use your preferred ad-blocker extension (I use uBlock Origin). Here are my Facebook filters:
+
+   
 ! ----- FACEBOOK FILTERS -----
 
 ! Removes friend and followed stories from home
