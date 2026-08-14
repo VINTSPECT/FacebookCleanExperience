@@ -3,19 +3,20 @@ This is my first repository, so it will look pretty basic. Please help me out an
 
 
 Here’s the guide:
-A. Initial Setup:
 
-1. Install a userscript manager extension (Violentmonkey, ScriptCat, Firemonkey, or similar). I recommend Violentmonkey because it’s more memory-efficient.
-2. Install the userscript called “FB-clean my feeds.” This is a key tool that, in my opinion, can make using Facebook enjoyable again. It does more than just remove ads.
+A. Initial Setup:
+1. Install a userscript manager extension (Violentmonkey, ScriptCat, Firemonkey, or similar). I recommend [Violentmonkey](https://violentmonkey.github.io/) because it’s more memory-efficient.
+2. Install the userscript called “[FB-clean my feeds](https://greasyfork.org/en/scripts/552339-fb-clean-my-feeds-5-05).” This is a key tool that, in my opinion, can make using Facebook enjoyable again. It does more than just remove ads.
 3. Click “Install” for that userscript on your userscript manager’s extensions page.
-4. Download the .json file from the “Releases” section of this repository. This file contains the settings I use daily on Facebook. If you’re suspicious of the file, please scan it with your best antivirus software before proceeding with the rest of this guide.
+4. Download the .json file from the “[Releases](https://github.com/VINTSPECT/FacebookCleanExperience/releases)” section of this repository. This file contains the settings I use daily on Facebook. If you’re suspicious of the file, please scan it with your best antivirus software before proceeding with the rest of this guide.
+
 
 B. Setting Up the FB-Clean-My-Feeds Script
-
 1. Open the Facebook page in your browser.
 2. Look for the broom icon in the top-right corner of Facebook. Click the icon to open the script page.
 3. Click “Import.” Locate the .json file you downloaded earlier and click “Open.”
 4. Refresh your Facebook page. Sponsored ads should no longer appear on your Facebook homepage.
+
 
 C. Important notes:
 1. You can further configure the settings of the FB-clean-my-feeds script yourself according to your preferences and needs. Based on my own experience, I recommend unchecking “suggestions/recommendations” in the News Feed, as this will cause your browser’s RAM usage to spike. Just check the important sections as listed in the .json file I’ve provided (sponsored, paid partnerships, sponsored—paid for by, AI in side panels, and pause animated GIFs).
@@ -23,8 +24,9 @@ C. Important notes:
 3. Panduan ini saya gunakan di browser desktop dengan OS windows. Saya belum mencoba di perangkat android/ios dan seharusnya browser android/ios yang mendukung userscript dapat menjalankan script ini. Informasikan saya apabila anda menemui kendala di perangkat hp.
 4. Cara ini tidak dapat menjamin keberhasilan 100% karena Facebook dapat mengubah kode di facebook. Untuk saat ini saat tulisan ini ditulis masih berfungsi di saya dan semoga dapat terus berfungsi.
 
+
 D. Additional Notes:
-1. If you want to enhance your Facebook experience, you can use the filter settings I use every day. Use your preferred ad-blocker extension (I use uBlock Origin). Here are my Facebook filters:
+1. If you want to enhance your Facebook experience, you can use the filter settings I use every day. Use your preferred ad-blocker extension (I use uBlock Origin). You can copy all or some of the filters below, depending on your needs:
 
    
 ! ----- FACEBOOK FILTERS -----
@@ -55,5 +57,7 @@ www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.x
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(19)
 www.facebook.com###right_rail_container > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xq1qtft.x1n2onr6.x1odjw0f.x1oyok0e.xwo3gff.xx8ngbg.x2lwn1j.xs83m0k.x1iyjqo2.x1l7klhg.xjx87ck.x1yqm8si.xfk6m8.x1rohswg.x1pq812k.x1ja2u2z.x6ikm8r.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i
 ! ----- END OF FACEBOOK FILTERS -----
+
+
 
 That’s all I have to say. I hope this is useful and helps more people. Thank you for visiting my first repository.
