@@ -19,6 +19,7 @@ B. Setting Up the FB-Clean-My-Feeds Script
 
 
 C. Important notes:
+
 1. You can further configure the settings of the FB-clean-my-feeds script yourself according to your preferences and needs. Based on my own experience, I recommend unchecking “suggestions/recommendations” in the News Feed, as this will cause your browser’s RAM usage to spike. Just check the important sections as listed in the .json file I’ve provided (sponsored, paid partnerships, sponsored—paid for by, AI in side panels, and pause animated GIFs).
 2. For the Group Feed and Marketplace settings, I’ve checked the “Sponsored” and “Paid Partnership” sections to remove ads. As before, avoid checking unnecessary options so your Facebook experience isn’t disrupted by excessive memory usage. The .json file I’ve shared in this repository represents the minimal settings that I believe strike a balance between privacy and user convenience. Advanced users can customize their own settings without having to stick strictly to my preferences.
 3. I’ve tested this guide on a desktop browser running Windows. I haven’t tried it on Android or iOS devices yet, but any Android or iOS browser that supports userscripts should be able to run this script. Please let me know if you encounter any issues on your mobile device.
@@ -26,7 +27,10 @@ C. Important notes:
 
 
 D. Additional Notes:
+
 If you want to enhance your Facebook experience, you can use the filter settings I use every day. Use your preferred ad-blocker extension (I use uBlock Origin). You can copy all or some of this [filters](https://github.com/VINTSPECT/FacebookCleanExperience/blob/main/Facebook%20My%20Filters.txt), depending on your needs. The filter includes removing the right sidebar and several items in the left sidebar that I don't think are necessary. In my experience, all of these settings can improve your Facebook experience in a browser and reduce unnecessary elements (think of it as “debloating” Facebook).
+
+
 
 
 
